@@ -14,8 +14,6 @@ You need to install R and RStudio software to run the scripts.
 https://www.rstudio.com/products/rstudio/download/
 ```
 
-### Installing
-
 You need also to install some R packages including  
 
 ```
