@@ -11,7 +11,7 @@ This repository will give you a copy of the R-scripts used to create the visuali
 You need to install R and RStudio software to run the scripts.
 
 ```
-https://www.rstudio.com/products/rstudio/download/
+[https://www.rstudio.com/products/rstudio/download/]
 ```
 
 ### Installing
