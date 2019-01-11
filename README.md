@@ -45,7 +45,7 @@ RStudio software version 1.1.447.
 
 ## Authors
 
-**Alaa Alahmadi** - 
+**Alaa Alahmadi** - **Caroline Jay** 
 
 See also the list of [co-authors](xxxx) who participated in this research.
 
