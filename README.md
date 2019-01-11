@@ -4,7 +4,7 @@ We conducted a resaerch showing that visualising an electrocardiograph (ECG) usi
 
 ## Getting Started
 
-This repository will get you a copy of the R-scripts used to create the visualisations and the raw ECG signals on your local machine for development and testing purposes. 
+This repository will give you a copy of the R-scripts used to create the visualisations and the raw ECG signals on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
