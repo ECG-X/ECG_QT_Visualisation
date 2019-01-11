@@ -1,10 +1,10 @@
-# Research Title: Evaluating the Impact of Pseudo-Colour and Coordinate System on the Detection of Medication-induced ECG Changes
+# The Impact of Pseudo-Colour and Coordinate System on ECG Interpretation
 
-We show that visualising an electrocardiograph (ECG) using Polar coordinates, and applying a horizontal pseudo-colour filter over the signal, significantly helps lay-people to detect QT-interval increases. Here is the link for the research paper: xxxxx
+We conducted a resaerch showing that visualising an electrocardiograph (ECG) using Polar coordinates, and applying a horizontal pseudo-colour filter over the signal, significantly helps lay-people to detect increases in the QT-interval. Here is the link for the research paper: xxxxx
 
 ## Getting Started
 
-This repository will get you a copy of the R-scripts and the ECG signals on your local machine for development and testing purposes. 
+This repository will get you a copy of the R-scripts used to create the visualisations and the raw ECG signals on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
@@ -32,8 +32,8 @@ You need also to install some R packages including
 
 ### Images folder
 
-The images folder containes full size image (PNG type) showing examples of normal
-(QT < 430), borderline(QT > 440 and < 470), prolonged (QT > 470 and < 500) and very prolonged (QT > 500). 
+The images folder containes full size image (PNG type) showing visualisation examples of normal
+(QT < 430), borderline (QT > 440 and < 470), prolonged (QT > 470 and < 500) and very prolonged (QT > 500) QT-intervals. 
 The image name are coded as the value of QT-interval in millisconds and the type of the visualisation technique, where 'C' indicates Cartesian, 'CC' indicates Cartesian with Colour, 'P' indicates Polar and 'PC' indicates Polar with Colour.
 
 ## R-scripts folder
