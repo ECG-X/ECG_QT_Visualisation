@@ -1,4 +1,4 @@
-# Research Title: Using Pseudo-Colour and Changing Coordinates Can Support ECG Interpretation
+# Research Title: Evaluating the Impact of Pseudo-Colour and Coordinate System on the Detection of Medication-induced ECG Changes
 
 We show that visualising an electrocardiograph (ECG) using Polar coordinates, and applying a horizontal pseudo-colour filter over the signal, significantly helps lay-people to detect QT-interval increases. Here is the link for the research paper: xxxxx
 
