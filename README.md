@@ -1,6 +1,6 @@
 # The Impact of Pseudo-Colour and Coordinate System on ECG Interpretation
 
-We conducted a resaerch showing that visualising an electrocardiograph (ECG) using Polar coordinates, and applying a horizontal pseudo-colour filter over the signal, significantly helps lay-people to detect increases in the QT-interval. Here is the link for the research paper: https://dl.acm.org/citation.cfm?id=3300353
+We conducted a resaerch showing that visualising an electrocardiograph (ECG) on Cartesian/Polar coordinates, and applying pseudo-colouring under the area of ECG signal, significantly helps lay-people to detect increases in the QT-interval at low normal heart rate (60bpm), when compared with a normal ECG baseline. Here is the link for the research paper: https://dl.acm.org/citation.cfm?id=3300353
 
 ## Getting Started
 
