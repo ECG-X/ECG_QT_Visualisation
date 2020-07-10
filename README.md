@@ -31,7 +31,7 @@ You need also to install some R packages including
 ### Images folder
 
 The images folder containes full size image (PNG type) showing visualisation examples of normal
-(QT < 430), borderline (QT > 440 and < 470), prolonged (QT > 470 and < 500) and very prolonged (QT > 500) QT-intervals. 
+(QT < 430), borderline (QT > 440 and QT < 470), prolonged (QT > 470 and QT < 500) and very prolonged (QT > 500) QT-intervals. 
 The image name are coded as the value of QT-interval in millisconds and the type of the visualisation technique, where 'C' indicates Cartesian, 'CC' indicates Cartesian with Colour, 'P' indicates Polar and 'PC' indicates Polar with Colour.
 
 ## R-scripts folder
